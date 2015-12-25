@@ -1,5 +1,6 @@
-import "deps/phoenix_html/web/static/js/phoenix_html"
+import 'css/app.css';
 
+import "phoenix_html"
 import React from "react";
 import ReactDOM from "react-dom";
 import Greeting from "./components/greeting";
